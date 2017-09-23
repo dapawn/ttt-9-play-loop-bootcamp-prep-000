@@ -36,7 +36,7 @@ def turn(board)
 end
 
 # Define your play method below
-def plsy(bosrd)
+def play(bosrd)
   i=1
   while i<=9 do
     turn(board)
