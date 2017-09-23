@@ -39,6 +39,6 @@ end
 def plsy(bosrd)
   i=1
   while i<=9 do
-    turn(bosrd)
+    turn(board)
   end
 end
